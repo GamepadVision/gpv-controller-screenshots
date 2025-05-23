@@ -22,9 +22,6 @@ class Colors:
 # SUPABASE_KEY = "your-supabase-api-key"
 # TABLE_NAME = "css_data"
 
-SUPABASE_URL = "https://ydnacbpxwspxlzcffnfb.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlkbmFjYnB4d3NweGx6Y2ZmbmZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDM0NTMxMzksImV4cCI6MjAxOTAyOTEzOX0.xvv06zgvo6QCwO4CAElf5RMZbm52LlOxOifEnM_QNl0"
-TABLE_NAME = "css_data"
 
 # === SCREENSHOT SETTINGS ===
 CONTROLLERS = ['ds4', 'ds5', 'ps', 'xbox-old', 'xbox']
